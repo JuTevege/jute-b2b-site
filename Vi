@@ -1,0 +1,945 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>JuTe International Food | Nhà máy thực phẩm chay 30 năm | ISO 22000 + HACCP | Đào Viên, Đài Loan</title>
+<meta name="description" content="JuTe International Food (儒德素食) — Đào Viên, Đài Loan. Nhà máy thực phẩm chay 30 năm. Đạt chứng nhận ISO 22000 + HACCP. Sản phẩm thuần chay / chay trứng, không hành tỏi, đậu nành không biến đổi gen. OEM, bán sỉ, xuất khẩu sang Mỹ, Canada, Úc, Singapore, Malaysia.">
+<meta name="keywords" content="OEM thực phẩm chay Đài Loan, nhà máy chay, thực phẩm chay xuất khẩu, ISO 22000, HACCP, đậu nành không biến đổi gen, không hành tỏi, giăm bông chay, sườn chay, furikake chay, Đào Viên Đài Loan, JuTe, 儒德素食">
+<meta name="author" content="JuTe International Food Co., Ltd.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://b2b.jutevege.com/vi/">
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:locale:alternate" content="zh_TW">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="og:locale:alternate" content="zh_CN">
+<meta property="og:title" content="JuTe International Food | Nhà máy thực phẩm chay 30 năm">
+<meta property="og:description" content="Từ năm 1995. Đạt chứng nhận ISO 22000 + HACCP. Dây chuyền sản xuất song ngữ. Đào Viên, Đài Loan.">
+<meta property="og:url" content="https://b2b.jutevege.com/vi/">
+<meta property="og:site_name" content="JuTe B2B">
+
+<link rel="alternate" hreflang="zh-Hant" href="https://b2b.jutevege.com/">
+<link rel="alternate" hreflang="en" href="https://b2b.jutevege.com/en/">
+<link rel="alternate" hreflang="vi" href="https://b2b.jutevege.com/vi/">
+<link rel="alternate" hreflang="zh-Hans" href="https://b2b.jutevege.com/sc/">
+<link rel="alternate" hreflang="x-default" href="https://b2b.jutevege.com/">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FoodEstablishment",
+  "@id": "https://b2b.jutevege.com/#org",
+  "name": "JuTe International Food",
+  "alternateName": ["儒德素食", "JuTe", "Jute International Food Co., Ltd."],
+  "legalName": "Jute International Food Co., Ltd.",
+  "url": "https://b2b.jutevege.com/",
+  "foundingDate": "1995",
+  "taxID": "16037664",
+  "telephone": "+886-3-364-7017",
+  "faxNumber": "+886-3-362-7044",
+  "email": "service@jutevege.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "No.13, Lane 772, Heping Rd.",
+    "addressLocality": "Bade District",
+    "addressRegion": "Taoyuan City",
+    "postalCode": "334023",
+    "addressCountry": "TW"
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+    "opens": "09:00",
+    "closes": "17:00"
+  }],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "13"
+  }
+}
+</script>
+
+<link rel="icon" type="image/png" href="https://www.jutevege.com/upload/admin/202004201309241.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Noto+Serif+TC:wght@500;700;900&family=Inter:wght@300;400;500;600;700;800;900&family=Mona+Sans:wght@600;700;900&family=DM+Sans:wght@400;500;700;900&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --c-bg:        #F5E6D3;
+  --c-bg-alt:    #EDDAC4;
+  --c-surface:   #FBF4E9;
+  --c-text:      #1A1A1A;
+  --c-text-mut:  #5C5C5C;
+  --c-text-soft: #8A8A8A;
+  --c-border:    #DCC9B4;
+  --c-primary:   #1F3A2D;
+  --c-primary-l: #2E5E3E;
+  --c-primary-d: #142420;
+  --c-accent:    #C9A961;
+  --c-accent-d:  #A8893F;
+  --c-cta:       #C5573D;
+  --c-cta-d:     #9E4530;
+  --c-trust:     #2E7D32;
+  --f-zh-serif:  'Noto Serif TC', 'Songti TC', serif;
+  --f-zh-sans:   'Noto Sans TC', system-ui, -apple-system, sans-serif;
+  --f-en-serif:  'Cormorant Garamond', Georgia, serif;
+  --f-en-sans:   'Inter', system-ui, -apple-system, sans-serif;
+  --f-num:       'Inter', sans-serif;
+  --sp-1: 4px; --sp-2: 8px; --sp-3: 12px; --sp-4: 16px;
+  --sp-5: 24px; --sp-6: 32px; --sp-7: 48px; --sp-8: 64px;
+  --sp-9: 96px; --sp-10: 128px;
+  --w-max: 1200px;
+  --w-narrow: 880px;
+  --r-sm: 4px; --r-md: 8px; --r-lg: 12px; --r-xl: 24px;
+  --shadow-sm: 0 1px 2px rgba(20,36,32,0.04), 0 2px 4px rgba(20,36,32,0.04);
+  --shadow-md: 0 4px 12px rgba(20,36,32,0.06), 0 8px 24px rgba(20,36,32,0.04);
+  --shadow-lg: 0 8px 24px rgba(20,36,32,0.08), 0 16px 48px rgba(20,36,32,0.06);
+  --t-fast: 150ms cubic-bezier(.4,0,.2,1);
+  --t-mid:  250ms cubic-bezier(.4,0,.2,1);
+  --t-slow: 600ms cubic-bezier(.16,1,.3,1);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body {
+  font-family: var(--f-en-sans);
+  font-weight: 400;
+  font-size: clamp(15px, 1vw + 12px, 17px);
+  line-height: 1.7;
+  color: var(--c-text);
+  background: var(--c-bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+img, svg { display: block; max-width: 100%; height: auto; }
+a { color: inherit; text-decoration: none; transition: color var(--t-fast); }
+button { font-family: inherit; cursor: pointer; border: none; background: none; }
+:focus-visible { outline: 3px solid var(--c-accent); outline-offset: 2px; border-radius: var(--r-sm); }
+::selection { background: var(--c-primary); color: white; }
+
+.skip-link { position: absolute; top: -100px; left: 8px; background: var(--c-primary); color: white; padding: var(--sp-3) var(--sp-5); border-radius: var(--r-md); z-index: 1000; transition: top var(--t-fast); }
+.skip-link:focus { top: 8px; }
+
+.h1 { font-family: var(--f-en-sans); font-weight: 900; font-size: clamp(2rem, 5vw, 3.75rem); line-height: 1.1; letter-spacing: -0.025em; }
+.h2 { font-family: var(--f-en-sans); font-weight: 800; font-size: clamp(1.5rem, 3vw, 2.5rem); line-height: 1.2; letter-spacing: -0.02em; }
+.h3 { font-family: var(--f-en-sans); font-weight: 700; font-size: clamp(1.125rem, 1.5vw, 1.375rem); line-height: 1.3; }
+.eyebrow { font-family: var(--f-en-sans); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase; color: var(--c-accent-d); }
+.lede { font-size: clamp(1rem, 1.2vw, 1.125rem); color: var(--c-text-mut); max-width: 60ch; line-height: 1.65; }
+.num { font-family: var(--f-num); font-feature-settings: 'tnum' on, 'lnum' on; }
+
+.container { max-width: var(--w-max); margin-inline: auto; padding-inline: clamp(20px, 4vw, 48px); }
+.container.narrow { max-width: var(--w-narrow); }
+.section { padding-block: clamp(64px, 8vw, 128px); }
+.section--alt { background: var(--c-bg-alt); }
+.section--dark { background: var(--c-primary); color: var(--c-bg); }
+.section--dark .eyebrow { color: var(--c-accent); }
+.section--dark .lede { color: rgba(255,255,255,0.78); }
+
+.sec-head { display: flex; flex-direction: column; gap: var(--sp-3); margin-bottom: clamp(40px, 5vw, 64px); }
+.sec-head--center { align-items: center; text-align: center; }
+
+[data-reveal] { opacity: 0; transform: translateY(20px); transition: opacity var(--t-slow), transform var(--t-slow); }
+[data-reveal].is-visible { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) {
+  [data-reveal] { opacity: 1; transform: none; transition: none; }
+  html { scroll-behavior: auto; }
+}
+
+.topbar { background: var(--c-primary-d); color: rgba(255,255,255,0.78); font-size: 0.75rem; padding: var(--sp-2) 0; }
+.topbar__inner { display: flex; justify-content: space-between; align-items: center; gap: var(--sp-5); flex-wrap: wrap; }
+.topbar__contact { display: flex; gap: var(--sp-5); }
+.topbar__contact a:hover { color: var(--c-accent); }
+.lang-switch { display: flex; gap: var(--sp-1); align-items: center; }
+.lang-switch a { padding: 2px var(--sp-2); border-radius: var(--r-sm); font-family: var(--f-en-sans); font-weight: 500; letter-spacing: 0.05em; }
+.lang-switch a.is-active { background: var(--c-accent); color: var(--c-primary-d); }
+.lang-switch a:hover:not(.is-active) { color: var(--c-accent); }
+.lang-switch span { opacity: 0.4; }
+
+.header {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(245, 230, 211, 0.92);
+  backdrop-filter: saturate(160%) blur(12px);
+  -webkit-backdrop-filter: saturate(160%) blur(12px);
+  border-bottom: 1px solid var(--c-border);
+}
+.header__inner { display: flex; align-items: center; justify-content: space-between; height: 72px; gap: var(--sp-5); }
+
+.brand { display: flex; align-items: center; gap: 14px; }
+.brand__zh {
+  font-family: var(--f-zh-sans);
+  font-weight: 900;
+  font-size: 1.18rem;
+  letter-spacing: 0.04em;
+  color: var(--c-primary);
+  line-height: 1;
+  padding-right: 14px;
+  border-right: 1px solid var(--c-border);
+  display: flex; flex-direction: column; gap: 4px;
+}
+.brand__zh small {
+  font-family: var(--f-en-sans);
+  font-size: 0.58rem;
+  font-weight: 500;
+  color: var(--c-text-soft);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.brand__en { display: flex; flex-direction: column; gap: 4px; line-height: 1; }
+.brand__name {
+  font-family: 'Mona Sans', var(--f-en-sans);
+  font-weight: 900;
+  font-size: 1.85rem;
+  letter-spacing: -0.05em;
+  color: var(--c-primary);
+  line-height: 0.85;
+}
+.brand__name::after { content:'.'; color: var(--c-accent); }
+.brand__tag {
+  font-family: 'Mona Sans', var(--f-en-sans);
+  font-size: 0.55rem;
+  font-weight: 700;
+  color: var(--c-text-soft);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.nav { display: flex; gap: var(--sp-4); align-items: center; }
+.nav a { font-size: 0.85rem; font-weight: 500; color: var(--c-text-mut); letter-spacing: 0.02em; }
+.nav a:hover { color: var(--c-primary); }
+.nav__cta { background: var(--c-cta); color: white !important; padding: var(--sp-3) var(--sp-5); border-radius: var(--r-md); font-weight: 600; transition: all var(--t-fast); }
+.nav__cta:hover { background: var(--c-cta-d); transform: translateY(-1px); }
+.nav-toggle { display: none; }
+@media (max-width: 1180px) {
+  .brand__tag, .brand__zh small { display: none; }
+  .brand__zh { padding-right: 12px; }
+}
+@media (max-width: 1000px) {
+  .nav { display: none; }
+  .nav.is-open {
+    display: flex; flex-direction: column;
+    position: absolute; top: 100%; left: 0; right: 0;
+    background: var(--c-bg); padding: var(--sp-5);
+    border-bottom: 1px solid var(--c-border); gap: var(--sp-4);
+  }
+  .nav-toggle { display: grid; place-items: center; width: 40px; height: 40px; border: 1px solid var(--c-border); border-radius: var(--r-md); }
+  .brand__tag, .brand__zh small { display: block; }
+}
+
+.hero {
+  background:
+    linear-gradient(180deg, rgba(31,58,45,0.88), rgba(20,36,32,0.96)),
+    radial-gradient(ellipse at top, #2E5E3E 0%, transparent 60%),
+    var(--c-primary-d);
+  color: white;
+  padding-block: clamp(72px, 10vw, 144px);
+  position: relative; overflow: hidden;
+}
+.hero::before {
+  content: ''; position: absolute; inset: 0;
+  background: repeating-linear-gradient(135deg, transparent 0, transparent 40px, rgba(201,169,97,0.025) 40px, rgba(201,169,97,0.025) 80px);
+  pointer-events: none;
+}
+.hero__inner { position: relative; }
+.hero__eyebrow { display: inline-flex; align-items: center; gap: var(--sp-3); color: var(--c-accent); margin-bottom: var(--sp-5); font-family: var(--f-en-sans); font-size: 0.8rem; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; }
+.hero__eyebrow::before, .hero__eyebrow::after { content: ''; width: 24px; height: 1px; background: var(--c-accent); opacity: 0.5; }
+.hero__title {
+  font-family: var(--f-en-sans);
+  font-weight: 900;
+  font-size: clamp(2.4rem, 6vw, 4.5rem);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  margin-bottom: var(--sp-5);
+  max-width: 18ch;
+}
+.hero__title em { font-style: italic; color: var(--c-accent); font-family: 'Mona Sans', var(--f-en-sans); font-weight: 800; }
+.hero__sub { font-size: clamp(1.05rem, 1.4vw, 1.2rem); color: rgba(255,255,255,0.82); max-width: 60ch; line-height: 1.65; margin-bottom: var(--sp-7); }
+.hero__sub strong { color: white; font-weight: 500; }
+.hero__cta { display: flex; gap: var(--sp-4); flex-wrap: wrap; }
+.btn { display: inline-flex; align-items: center; gap: var(--sp-2); padding: var(--sp-4) var(--sp-6); border-radius: var(--r-md); font-weight: 600; font-size: 0.9rem; letter-spacing: 0.02em; transition: all var(--t-fast); white-space: nowrap; }
+.btn--primary { background: var(--c-cta); color: white; }
+.btn--primary:hover { background: var(--c-cta-d); transform: translateY(-2px); box-shadow: var(--shadow-md); }
+.btn--ghost { background: transparent; color: white; border: 1px solid rgba(255,255,255,0.3); }
+.btn--ghost:hover { background: rgba(255,255,255,0.08); border-color: white; }
+.hero__badges { margin-top: var(--sp-8); display: flex; gap: var(--sp-6); flex-wrap: wrap; padding-top: var(--sp-6); border-top: 1px solid rgba(255,255,255,0.12); }
+.hero__badge { display: flex; flex-direction: column; gap: var(--sp-1); }
+.hero__badge .num { font-size: clamp(1.5rem, 3vw, 2.25rem); font-weight: 700; color: var(--c-accent); line-height: 1; }
+.hero__badge .label { font-size: 0.78rem; color: rgba(255,255,255,0.65); letter-spacing: 0.04em; }
+
+.marquee {
+  background: var(--c-primary-d);
+  border-block: 1px solid rgba(201,169,97,.2);
+  padding: 22px 0;
+  overflow: hidden; position: relative;
+}
+.marquee::before, .marquee::after { content:''; position: absolute; top:0; bottom:0; width: 80px; z-index: 2; pointer-events: none; }
+.marquee::before { left:0; background: linear-gradient(90deg, var(--c-primary-d), transparent); }
+.marquee::after { right:0; background: linear-gradient(-90deg, var(--c-primary-d), transparent); }
+.marquee__track { display: flex; gap: 64px; white-space: nowrap; animation: scroll-marquee 50s linear infinite; will-change: transform; }
+.marquee__item {
+  font-family: 'Mona Sans', var(--f-en-sans);
+  font-style: italic; font-weight: 700;
+  font-size: clamp(1.25rem, 2.2vw, 1.85rem);
+  color: var(--c-accent);
+  display: flex; align-items: center; gap: 64px;
+  letter-spacing: -0.005em;
+}
+.marquee__item::after { content:'✦'; font-size:.5em; color: rgba(201,169,97,.5); font-style: normal; }
+@keyframes scroll-marquee { from{transform:translateX(0)} to{transform:translateX(-50%)} }
+@media (prefers-reduced-motion: reduce) { .marquee__track { animation: none !important; } }
+
+.trust { padding-block: clamp(48px, 6vw, 80px); background: var(--c-surface); border-bottom: 1px solid var(--c-border); }
+.trust__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--sp-7); }
+.trust-card { display: flex; flex-direction: column; gap: var(--sp-4); padding: var(--sp-2); }
+.trust-card__icon { width: 56px; height: 56px; border-radius: var(--r-md); background: rgba(31,58,45,0.06); display: grid; place-items: center; color: var(--c-primary); }
+.trust-card h3 { color: var(--c-primary); }
+.trust-card p { color: var(--c-text-mut); font-size: 0.95rem; }
+
+.about__grid { display: grid; grid-template-columns: 1.1fr 1fr; gap: clamp(40px, 6vw, 80px); align-items: center; }
+@media (max-width: 880px) { .about__grid { grid-template-columns: 1fr; } }
+.about__copy h2 { color: var(--c-primary); margin-bottom: var(--sp-5); }
+.about__copy h2 em { font-style: italic; color: var(--c-accent-d); font-family: var(--f-en-serif); font-weight: 700; }
+.about__copy p { margin-bottom: var(--sp-4); color: var(--c-text-mut); }
+.about__copy p strong { color: var(--c-text); font-weight: 600; }
+
+.stats { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--c-border); border-radius: var(--r-lg); overflow: hidden; border: 1px solid var(--c-border); }
+.stat { background: var(--c-surface); padding: var(--sp-6) var(--sp-5); display: flex; flex-direction: column; gap: var(--sp-2); }
+.stat__num { font-family: var(--f-num); font-feature-settings: 'tnum' on; font-size: clamp(1.75rem, 3vw, 2.5rem); font-weight: 800; color: var(--c-primary); line-height: 1; letter-spacing: -0.02em; }
+.stat__num sup { font-size: 0.5em; font-weight: 600; color: var(--c-accent-d); }
+.stat__label { font-size: 0.85rem; color: var(--c-text-mut); letter-spacing: 0.02em; }
+
+.spec-sheet { background: var(--c-surface); border: 1px solid var(--c-border); border-radius: var(--r-lg); overflow: hidden; box-shadow: var(--shadow-sm); }
+.spec-sheet__head { background: var(--c-primary); color: white; padding: var(--sp-5) var(--sp-6); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: var(--sp-3); }
+.spec-sheet__head .label { font-family: var(--f-en-sans); font-size: 0.7rem; letter-spacing: 0.18em; color: var(--c-accent); font-weight: 600; }
+.spec-sheet__head .title { font-size: 1.05rem; font-weight: 700; }
+.spec-sheet__head .meta { font-size: 0.8rem; color: rgba(255,255,255,0.7); }
+.spec-sheet table { width: 100%; border-collapse: collapse; }
+.spec-sheet td { padding: var(--sp-4) var(--sp-6); border-bottom: 1px solid var(--c-border); font-size: 0.95rem; }
+.spec-sheet td:first-child { width: 38%; color: var(--c-text-mut); font-weight: 500; background: var(--c-bg-alt); }
+.spec-sheet td:last-child { font-weight: 500; }
+.spec-sheet tr:last-child td { border-bottom: none; }
+.spec-sheet__foot { padding: var(--sp-4) var(--sp-6); font-size: 0.8rem; color: var(--c-text-soft); background: var(--c-bg-alt); border-top: 1px solid var(--c-border); }
+
+.cert-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: var(--sp-5); }
+.cert { background: var(--c-surface); border: 1px solid var(--c-border); border-radius: var(--r-lg); padding: var(--sp-6); text-align: center; transition: all var(--t-mid); }
+.cert:hover { transform: translateY(-2px); box-shadow: var(--shadow-md); }
+.cert__seal { width: 80px; height: 80px; margin: 0 auto var(--sp-4); border-radius: 50%; display: grid; place-items: center; font-family: var(--f-en-serif); font-weight: 700; font-size: 1.25rem; letter-spacing: 0.04em; }
+.cert--active .cert__seal { background: var(--c-trust); color: white; box-shadow: 0 0 0 4px rgba(46,125,50,0.12); }
+.cert--pending .cert__seal { background: var(--c-bg-alt); color: var(--c-text-soft); border: 2px dashed var(--c-border); }
+.cert h3 { margin-bottom: var(--sp-2); color: var(--c-primary); }
+.cert p { font-size: 0.85rem; color: var(--c-text-mut); }
+.cert__status { display: inline-block; margin-top: var(--sp-3); font-size: 0.7rem; padding: 2px var(--sp-3); border-radius: 100px; letter-spacing: 0.04em; font-weight: 600; }
+.cert--active .cert__status { background: rgba(46,125,50,0.12); color: var(--c-trust); }
+.cert--pending .cert__status { background: var(--c-bg-alt); color: var(--c-text-soft); }
+
+.product-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--sp-5); }
+.product { background: var(--c-surface); border-radius: var(--r-lg); overflow: hidden; border: 1px solid var(--c-border); display: flex; flex-direction: column; transition: all var(--t-mid); }
+.product:hover { transform: translateY(-4px); box-shadow: var(--shadow-lg); }
+.product__media { aspect-ratio: 4/3; background: linear-gradient(135deg, var(--c-bg-alt) 0%, var(--c-border) 100%); display: grid; place-items: center; color: var(--c-text-soft); font-family: var(--f-en-sans); font-size: 0.7rem; letter-spacing: 0.18em; position: relative; }
+.product__grade { position: absolute; top: var(--sp-3); right: var(--sp-3); background: var(--c-primary); color: var(--c-accent); font-family: var(--f-en-serif); font-weight: 700; width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center; }
+.product__body { padding: var(--sp-5); flex: 1; display: flex; flex-direction: column; }
+.product h3 { color: var(--c-primary); margin-bottom: var(--sp-2); }
+.product__spec { font-family: var(--f-num); font-size: 0.82rem; color: var(--c-text-soft); letter-spacing: 0.02em; margin-bottom: var(--sp-4); }
+.product__tags { display: flex; flex-wrap: wrap; gap: var(--sp-2); margin-top: auto; padding-top: var(--sp-4); border-top: 1px solid var(--c-border); }
+.tag { font-size: 0.7rem; font-weight: 600; padding: 3px var(--sp-3); background: var(--c-bg-alt); color: var(--c-text-mut); border-radius: 100px; letter-spacing: 0.02em; }
+.tag--primary { background: rgba(31,58,45,0.08); color: var(--c-primary); }
+
+.products__note { margin-top: var(--sp-7); padding: var(--sp-5) var(--sp-6); background: var(--c-bg-alt); border-left: 3px solid var(--c-accent); border-radius: var(--r-md); font-size: 0.9rem; color: var(--c-text-mut); }
+
+.workforce { background: var(--c-primary); color: white; position: relative; overflow: hidden; }
+.workforce__grid { display: grid; grid-template-columns: 1fr 1.2fr; gap: clamp(40px, 6vw, 80px); align-items: center; }
+@media (max-width: 880px) { .workforce__grid { grid-template-columns: 1fr; } }
+.workforce__visual { aspect-ratio: 4/5; background: linear-gradient(135deg, var(--c-primary-l) 0%, var(--c-primary-d) 100%); border-radius: var(--r-lg); position: relative; overflow: hidden; display: grid; place-items: center; }
+.workforce__visual::after { content: ''; position: absolute; inset: 0; background: repeating-linear-gradient(45deg, transparent 0, transparent 30px, rgba(201,169,97,0.04) 30px, rgba(201,169,97,0.04) 60px); }
+.workforce__bilingual { position: relative; z-index: 2; text-align: center; font-family: var(--f-en-serif); font-style: italic; font-weight: 700; color: var(--c-accent); font-size: clamp(1.5rem, 3vw, 2.5rem); line-height: 1.6; }
+.workforce__bilingual .zh { display: block; font-family: var(--f-zh-sans); font-style: normal; font-weight: 900; font-size: 0.75em; color: rgba(255,255,255,0.7); letter-spacing: 0.05em; margin-top: var(--sp-3); }
+.workforce__bilingual .en { display: block; font-family: 'Mona Sans', var(--f-en-sans); font-style: normal; font-weight: 700; font-size: 0.42em; color: rgba(255,255,255,0.55); letter-spacing: 0.2em; margin-top: var(--sp-3); text-transform: uppercase; }
+.workforce__copy h2 { color: white; margin-bottom: var(--sp-5); }
+.workforce__copy h2 em { font-style: italic; color: var(--c-accent); font-family: 'Mona Sans', var(--f-en-sans); font-weight: 800; }
+.workforce__copy p { color: rgba(255,255,255,0.82); margin-bottom: var(--sp-4); max-width: 56ch; }
+.workforce__copy p strong { color: var(--c-accent); font-weight: 600; }
+.workforce__list { list-style: none; margin-top: var(--sp-5); }
+.workforce__list li { display: flex; gap: var(--sp-3); padding: var(--sp-3) 0; border-bottom: 1px solid rgba(255,255,255,0.1); align-items: flex-start; }
+.workforce__list li::before { content: ''; width: 6px; height: 6px; margin-top: 12px; background: var(--c-accent); border-radius: 50%; flex-shrink: 0; }
+.workforce__list li strong { display: block; color: white; font-weight: 600; margin-bottom: var(--sp-1); }
+.workforce__list li span { color: rgba(255,255,255,0.7); font-size: 0.9rem; }
+
+.metric-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: var(--sp-5); }
+.metric { background: var(--c-surface); border: 1px solid var(--c-border); border-radius: var(--r-lg); padding: var(--sp-6); position: relative; }
+.metric__label { font-size: 0.82rem; color: var(--c-text-mut); margin-bottom: var(--sp-3); font-weight: 600; }
+.metric__value { font-family: var(--f-num); font-feature-settings: 'tnum' on; font-size: clamp(2rem, 4vw, 3rem); font-weight: 800; color: var(--c-primary); line-height: 1; margin-bottom: var(--sp-2); letter-spacing: -0.02em; }
+.metric__value sup { font-size: 0.4em; font-weight: 600; color: var(--c-accent-d); margin-left: 4px; letter-spacing: 0; }
+.metric__delta { font-size: 0.8rem; font-weight: 500; color: var(--c-trust); display: inline-flex; align-items: center; gap: 4px; }
+.metric__source { margin-top: var(--sp-7); font-size: 0.78rem; color: var(--c-text-soft); text-align: center; }
+
+.cta-block { background: linear-gradient(135deg, var(--c-cta) 0%, var(--c-cta-d) 100%); color: white; padding: clamp(48px, 6vw, 80px); border-radius: var(--r-xl); text-align: center; position: relative; overflow: hidden; }
+.cta-block::before { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse at top right, rgba(255,255,255,0.12), transparent 50%); pointer-events: none; }
+.cta-block__inner { position: relative; z-index: 1; }
+.cta-block h2 { color: white; margin-bottom: var(--sp-4); }
+.cta-block h2 em { font-style: italic; }
+.cta-block p { color: rgba(255,255,255,0.9); max-width: 56ch; margin: 0 auto var(--sp-7); }
+.cta-block .btn { background: white; color: var(--c-cta-d); font-weight: 700; padding: var(--sp-5) var(--sp-7); }
+.cta-block .btn:hover { background: var(--c-bg); transform: translateY(-2px); box-shadow: var(--shadow-lg); }
+.cta-block__note { margin-top: var(--sp-5); font-size: 0.8rem; color: rgba(255,255,255,0.7); }
+
+.footer { background: var(--c-primary-d); color: rgba(255,255,255,0.78); padding-block: var(--sp-8) var(--sp-5); }
+.footer__grid { display: grid; grid-template-columns: 1.5fr 1fr 1.2fr 1fr; gap: var(--sp-7); margin-bottom: var(--sp-7); }
+@media (max-width: 880px) { .footer__grid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 480px) { .footer__grid { grid-template-columns: 1fr; } }
+.footer h4 { color: var(--c-accent); font-size: 0.7rem; letter-spacing: 0.18em; text-transform: uppercase; font-weight: 700; margin-bottom: var(--sp-4); }
+.footer__brand .brand__name { color: var(--c-accent); font-size: 1.6rem; }
+.footer__about p { font-size: 0.85rem; margin-top: var(--sp-3); line-height: 1.65; max-width: 38ch; }
+.footer ul { list-style: none; }
+.footer ul li { margin-bottom: var(--sp-3); font-size: 0.88rem; }
+.footer a:hover { color: var(--c-accent); }
+.footer__contact li { display: flex; gap: var(--sp-3); font-size: 0.85rem; align-items: flex-start; }
+.footer__contact li::before { content: attr(data-label); font-size: 0.65rem; color: var(--c-accent); letter-spacing: 0.12em; width: 40px; flex-shrink: 0; padding-top: 2px; font-weight: 700; text-transform: uppercase; }
+.footer__bottom { border-top: 1px solid rgba(255,255,255,0.1); padding-top: var(--sp-5); display: flex; justify-content: space-between; flex-wrap: wrap; gap: var(--sp-3); font-size: 0.72rem; color: rgba(255,255,255,0.5); letter-spacing: 0.04em; }
+
+.ico { width: 24px; height: 24px; stroke-width: 1.75; }
+.ico--lg { width: 32px; height: 32px; }
+</style>
+</head>
+
+<body>
+<a class="skip-link" href="#main">Đến nội dung chính</a>
+
+<div class="topbar">
+  <div class="container topbar__inner">
+    <div class="topbar__contact">
+      <a href="tel:+886-3-364-7017">📞 +886-3-364-7017</a>
+      <a href="mailto:service@jutevege.com">✉ service@jutevege.com</a>
+    </div>
+    <nav class="lang-switch" aria-label="Chuyển ngôn ngữ">
+      <a href="/" hreflang="zh-Hant">繁中</a><span>·</span>
+      <a href="/en/" hreflang="en">EN</a><span>·</span>
+      <a href="/vi/" class="is-active">VI</a><span>·</span>
+      <a href="/sc/" hreflang="zh-Hans">简中</a>
+    </nav>
+  </div>
+</div>
+
+<header class="header">
+  <div class="container header__inner">
+    <a href="/vi/" class="brand" aria-label="JuTe International Food">
+      <span class="brand__zh">儒德素食<small>EST. 1995 · TAOYUAN</small></span>
+      <span class="brand__en">
+        <span class="brand__name">jute</span>
+        <span class="brand__tag">PLANT-BASED FOODS</span>
+      </span>
+    </a>
+    <button class="nav-toggle" aria-label="Mở menu" aria-expanded="false" id="navToggle">
+      <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <nav class="nav" id="nav">
+      <a href="#about">Lịch sử</a>
+      <a href="#capability">Thông số</a>
+      <a href="#compliance">Chứng nhận</a>
+      <a href="#products">Sản phẩm</a>
+      <a href="#workforce">Song ngữ</a>
+      <a href="#evidence">Cam kết</a>
+      <a href="#inquiry" class="nav__cta">Hỏi giá</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+<section class="hero">
+  <div class="container hero__inner">
+    <div class="hero__eyebrow">
+      <span>EST. 1995 · ĐÀO VIÊN · ĐÀI LOAN</span>
+    </div>
+    <h1 class="hero__title">30 năm chế biến<br>thực phẩm <em>chay</em> tại Đài Loan</h1>
+    <p class="hero__sub">
+      JuTe International Food sản xuất các sản phẩm <strong>thuần chay / chay trứng, không hành tỏi, đậu nành không biến đổi gen</strong>:
+      thịt thay thế, sườn, viên thịt, giăm bông, furikake và nhiều hơn nữa.
+      Đạt chứng nhận <strong>ISO 22000 + HACCP</strong>, kết hợp <strong>quản lý dây chuyền sản xuất song ngữ Hoa-Việt</strong> —
+      chúng tôi không chỉ bán thực phẩm, chúng tôi bán <em style="color:var(--c-accent)">chất lượng có thể kiểm chứng</em>.
+    </p>
+    <div class="hero__cta">
+      <a href="#inquiry" class="btn btn--primary">
+        Yêu cầu mẫu &amp; báo giá
+        <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </a>
+      <a href="#capability" class="btn btn--ghost">Xem thông số</a>
+    </div>
+    <div class="hero__badges">
+      <div class="hero__badge">
+        <span class="num">30<sup>+</sup></span>
+        <span class="label">Năm sản xuất</span>
+      </div>
+      <div class="hero__badge">
+        <span class="num">4.9<sup>★</sup></span>
+        <span class="label">Google · 13 đánh giá</span>
+      </div>
+      <div class="hero__badge">
+        <span class="num">ISO</span>
+        <span class="label">22000 + HACCP đã đạt</span>
+      </div>
+      <div class="hero__badge">
+        <span class="num">2<sup>L</sup></span>
+        <span class="label">Dây chuyền song ngữ</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="marquee" aria-hidden="true">
+  <div class="marquee__track">
+    <span class="marquee__item">từ năm 1995</span>
+    <span class="marquee__item">jute international food</span>
+    <span class="marquee__item">đậu nành không biến đổi gen</span>
+    <span class="marquee__item">ISO 22000</span>
+    <span class="marquee__item">HACCP đã đạt</span>
+    <span class="marquee__item">song ngữ Hoa-Việt</span>
+    <span class="marquee__item">sản xuất tại Đào Viên, Đài Loan</span>
+    <span class="marquee__item">USA · CAN · AUS · SGP · MYS</span>
+    <!-- duplicate -->
+    <span class="marquee__item">từ năm 1995</span>
+    <span class="marquee__item">jute international food</span>
+    <span class="marquee__item">đậu nành không biến đổi gen</span>
+    <span class="marquee__item">ISO 22000</span>
+    <span class="marquee__item">HACCP đã đạt</span>
+    <span class="marquee__item">song ngữ Hoa-Việt</span>
+    <span class="marquee__item">sản xuất tại Đào Viên, Đài Loan</span>
+    <span class="marquee__item">USA · CAN · AUS · SGP · MYS</span>
+  </div>
+</div>
+
+<section class="trust">
+  <div class="container">
+    <div class="trust__grid">
+      <article class="trust-card" data-reveal>
+        <div class="trust-card__icon">
+          <svg class="ico ico--lg" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg>
+        </div>
+        <h3>Chứng nhận kép ISO + HACCP</h3>
+        <p>Xây dựng tại Quận Bát Đức, Đào Viên từ 1995. Đạt chứng nhận <span class="num">ISO 22000</span> Hệ thống Quản lý An toàn Thực phẩm và <span class="num">HACCP</span> Phân tích Mối nguy và Điểm Kiểm soát Tới hạn.</p>
+      </article>
+      <article class="trust-card" data-reveal>
+        <div class="trust-card__icon">
+          <svg class="ico ico--lg" viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+        </div>
+        <h3>Dây chuyền sản xuất song ngữ</h3>
+        <p>Đội ngũ đa quốc gia. Phiếu công việc và biểu mẫu QC <strong>được lập song ngữ Hoa-Việt</strong>, giảm rủi ro trả hàng do sai sót ngôn ngữ.</p>
+      </article>
+      <article class="trust-card" data-reveal>
+        <div class="trust-card__icon">
+          <svg class="ico ico--lg" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M3 3v18h18"/><path d="M7 16l4-8 4 4 5-9"/></svg>
+        </div>
+        <h3>Hồ sơ chất lượng có thể kiểm toán</h3>
+        <p>Từ tiếp nhận nguyên liệu đến giao hàng thành phẩm, <strong>toàn bộ truy xuất được duy trì</strong>. Hồ sơ sản xuất, báo cáo QC và ghi chép vệ sinh có sẵn sau khi ký NDA.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="about">
+  <div class="container">
+    <div class="about__grid">
+      <div class="about__copy" data-reveal>
+        <span class="eyebrow">Lịch sử</span>
+        <h2 class="h2">Một nhà máy 30 tuổi<br><em>từ chối</em> quảng cáo.</h2>
+        <p>JuTe International Food (儒德素食) được thành lập năm 1995 tại Quận Bát Đức, Đào Viên, Đài Loan. Chúng tôi tập trung vào sản phẩm <strong>thuần chay và chay trứng, không hành tỏi</strong>, làm từ <strong>đậu nành không biến đổi gen</strong>: thịt thay thế, giăm bông chay, sườn, viên thịt và furikake — chủ yếu xuất khẩu sang các kênh phân phối thực phẩm chay tại Bắc Mỹ, Úc và Đông Nam Á.<small style="display:block; margin-top:8px; color:var(--c-text-soft); font-size:0.82em;">Tên pháp lý: Jute International Food Co., Ltd. · Mã số thuế 16037664</small></p>
+        <p>Chúng tôi không chạy theo các kênh đại chúng. Chúng tôi không mua quảng cáo. Tài sản thương hiệu của chúng tôi đến từ <strong>30 năm lịch sử tuân thủ tại nhà máy Đào Viên này</strong> — đã đạt chứng nhận ISO 22000 và HACCP, với chứng nhận Halal và Clean Label đang trong kế hoạch.</p>
+        <p>Đối với mọi người mua quốc tế, cam kết của JuTe rất đơn giản: <strong>minh bạch, có thể truy xuất, sẵn sàng kiểm toán</strong>. Hồ sơ sản xuất đầy đủ, tài liệu QC và chứng nhận của bên thứ ba sẽ được cung cấp sau khi ký thỏa thuận bảo mật (NDA).</p>
+      </div>
+      <aside class="stats" data-reveal aria-label="Số liệu chính">
+        <div class="stat">
+          <span class="stat__num"><span class="num">30</span><sup>+</sup></span>
+          <span class="stat__label">Năm sản xuất</span>
+        </div>
+        <div class="stat">
+          <span class="stat__num"><span class="num">4.9</span> ★</span>
+          <span class="stat__label">Đánh giá Google</span>
+        </div>
+        <div class="stat">
+          <span class="stat__num"><span class="num">2</span></span>
+          <span class="stat__label">Ngôn ngữ sản xuất (Hoa/Việt)</span>
+        </div>
+        <div class="stat">
+          <span class="stat__num"><span class="num">100</span>%</span>
+          <span class="stat__label">Đậu nành không biến đổi gen</span>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section class="section section--alt" id="capability">
+  <div class="container">
+    <div class="sec-head" data-reveal>
+      <span class="eyebrow">Thông số</span>
+      <h2 class="h2">Thông số đơn hàng</h2>
+      <p class="lede">Phạm vi thông số công khai bên dưới; phạm vi cuối cùng được xác nhận qua PO. Hồ sơ sản xuất đầy đủ có sẵn sau khi ký NDA.</p>
+    </div>
+
+    <div class="spec-sheet" data-reveal>
+      <div class="spec-sheet__head">
+        <div>
+          <div class="label">Spec Sheet · Thông số đơn hàng</div>
+          <div class="title">JuTe International Food · Đào Viên, Đài Loan</div>
+        </div>
+        <div class="meta">
+          Spec Sheet v1 · Cập nhật <span data-bind="lastUpdate">2026-05-08</span>
+        </div>
+      </div>
+      <table>
+        <tbody>
+          <tr><td>Phân loại sản phẩm</td><td>Thịt thay thế, sườn, viên thịt, giăm bông, furikake, viên konjac</td></tr>
+          <tr><td>Nguyên liệu chính</td><td>Đậu nành không biến đổi gen, đạm thực vật</td></tr>
+          <tr><td>Đặc điểm quy trình</td><td>Thuần chay / Chay trứng · Không hành tỏi · Rang nhiệt thấp (chọn lọc)</td></tr>
+          <tr><td>Bao bì</td><td>Túi đông lạnh PE, túi zipper</td></tr>
+          <tr><td>MOQ</td><td><span data-bind="moq" class="num">100</span> đơn vị (vận chuyển đường biển có thể thương lượng)</td></tr>
+          <tr><td>Thời gian giao hàng</td><td><span data-bind="leadtime">14–21</span> ngày kể từ PO xác nhận</td></tr>
+          <tr><td>Chính sách mẫu</td><td>Tối đa 3 mẫu SKU · phí vận chuyển do bên mua chịu</td></tr>
+          <tr><td>Cảng vận chuyển</td><td>Xác định theo quy mô đơn hàng và điểm đến</td></tr>
+          <tr><td>Thị trường chính</td><td>Mỹ · Canada · Úc · Singapore · Malaysia</td></tr>
+          <tr><td>OEM / ODM</td><td>Sản xuất theo hợp đồng hoặc nhãn hàng riêng (xem xét NDA)</td></tr>
+        </tbody>
+      </table>
+      <div class="spec-sheet__foot">
+        ⓘ Hồ sơ sản xuất đầy đủ, chứng nhận ISO 22000 / HACCP, và yêu cầu mẫu được xử lý qua kênh hỏi giá và cung cấp sau khi ký NDA.
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="compliance">
+  <div class="container">
+    <div class="sec-head sec-head--center" data-reveal>
+      <span class="eyebrow">Chứng nhận</span>
+      <h2 class="h2">Chứng nhận,<br>không phải lời hứa.</h2>
+      <p class="lede">Người mua B2B coi trọng <em>tài liệu của bên thứ ba</em> hơn các tính từ. Đây là tình trạng tuân thủ hiện tại của chúng tôi.</p>
+    </div>
+    <div class="cert-grid">
+      <div class="cert cert--active" data-reveal>
+        <div class="cert__seal">ISO</div>
+        <h3>ISO 22000</h3>
+        <p>Hệ thống Quản lý An toàn Thực phẩm</p>
+        <span class="cert__status">✓ Đã đạt</span>
+      </div>
+      <div class="cert cert--active" data-reveal>
+        <div class="cert__seal">HACCP</div>
+        <h3>HACCP</h3>
+        <p>Phân tích Mối nguy &amp; Điểm Kiểm soát Tới hạn</p>
+        <span class="cert__status">✓ Đã đạt</span>
+      </div>
+      <div class="cert cert--pending" data-reveal>
+        <div class="cert__seal">HALAL</div>
+        <h3>Halal</h3>
+        <p>Bắt buộc cho thị trường Malaysia / Indonesia</p>
+        <span class="cert__status">Đang lập kế hoạch</span>
+      </div>
+      <div class="cert cert--pending" data-reveal>
+        <div class="cert__seal" style="font-size:0.95rem">CLEAN<br>LABEL</div>
+        <h3>Clean Label</h3>
+        <p>Không phụ gia nhân tạo · công thức tối giản</p>
+        <span class="cert__status">Đang lập kế hoạch</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--alt" id="products">
+  <div class="container">
+    <div class="sec-head" data-reveal>
+      <span class="eyebrow">Sản phẩm</span>
+      <h2 class="h2">Danh sách rút gọn,<br><em>không phải</em> catalog.</h2>
+      <p class="lede">Chỉ các mặt hàng B2B được chọn lọc. Danh mục đầy đủ có sẵn theo NDA. Tất cả các mặt hàng: <strong>thuần chay hoặc chay trứng</strong>, không hành tỏi, đậu nành không biến đổi gen.</p>
+    </div>
+    <div class="product-grid" id="productGrid">
+      <article class="product" data-reveal>
+        <div class="product__media">
+          <span>HÌNH SẢN PHẨM</span>
+          <div class="product__grade">A</div>
+        </div>
+        <div class="product__body">
+          <h3>Furikake rong biển</h3>
+          <div class="product__spec">200g / gói · 30 gói / thùng · thường 12 tháng</div>
+          <p style="font-size:0.9rem;color:var(--c-text-mut)">Rang nhiệt thấp với hương vị rong biển đậm đà. Mặt hàng chính cho các siêu thị châu Á tại Bắc Mỹ và kênh phân phối thực phẩm chay Đông Nam Á.</p>
+          <div class="product__tags">
+            <span class="tag tag--primary">Hạng A</span>
+            <span class="tag">Thuần chay</span>
+            <span class="tag">Không hành tỏi</span>
+            <span class="tag">Vận chuyển biển</span>
+          </div>
+        </div>
+      </article>
+      <article class="product" data-reveal>
+        <div class="product__media">
+          <span>HÌNH SẢN PHẨM</span>
+          <div class="product__grade">A</div>
+        </div>
+        <div class="product__body">
+          <h3>Giăm bông chay Miao-Shan</h3>
+          <div class="product__spec">250g / gói · 20 gói / thùng · đông lạnh 12 tháng</div>
+          <p style="font-size:0.9rem;color:var(--c-text-mut)">Giăm bông chay cổ điển — có thể cắt lát ăn lạnh hoặc xào nóng. Mặt hàng cốt lõi cho các chuỗi cung ứng dịch vụ ăn uống chay quốc tế.</p>
+          <div class="product__tags">
+            <span class="tag tag--primary">Hạng A</span>
+            <span class="tag">Thuần chay</span>
+            <span class="tag">Không hành tỏi</span>
+            <span class="tag">Đông lạnh PE</span>
+          </div>
+        </div>
+      </article>
+      <article class="product" data-reveal>
+        <div class="product__media">
+          <span>HÌNH SẢN PHẨM</span>
+          <div class="product__grade">A</div>
+        </div>
+        <div class="product__body">
+          <h3>Sườn chay giòn</h3>
+          <div class="product__spec">280g / gói · 24 gói / thùng · đông lạnh 12 tháng</div>
+          <p style="font-size:0.9rem;color:var(--c-text-mut)">Vỏ ngoài giòn vàng, bên trong dai mềm. Sẵn sàng phục vụ — không cần chiên ngập dầu. Bán chạy trong các siêu thị châu Á tại Bắc Mỹ.</p>
+          <div class="product__tags">
+            <span class="tag tag--primary">Hạng A</span>
+            <span class="tag">Chay trứng</span>
+            <span class="tag">Không hành tỏi</span>
+            <span class="tag">Đông lạnh PE</span>
+          </div>
+        </div>
+      </article>
+      <article class="product" data-reveal>
+        <div class="product__media">
+          <span>HÌNH SẢN PHẨM</span>
+          <div class="product__grade">B</div>
+        </div>
+        <div class="product__body">
+          <h3>Đùi gà chay</h3>
+          <div class="product__spec">300g / gói · 25 gói / thùng · đông lạnh 12 tháng</div>
+          <p style="font-size:0.9rem;color:var(--c-text-mut)">Tạo hình đùi gà, vỏ giòn nhân dai. Mặt hàng yêu thích trong dịch vụ ăn uống chay và bán lẻ.</p>
+          <div class="product__tags">
+            <span class="tag tag--primary">Hạng B</span>
+            <span class="tag">Thuần chay</span>
+            <span class="tag">Không hành tỏi</span>
+            <span class="tag">Đông lạnh PE</span>
+          </div>
+        </div>
+      </article>
+    </div>
+    <div class="products__note" data-reveal>
+      <strong>Về phân hạng sản phẩm:</strong>
+      Hạng A = đề xuất chính (cung cấp ổn định, cơ cấu lợi nhuận hỗ trợ đơn hàng số lượng lớn); Hạng B = cung cấp giới hạn; Hạng C không công bố. Cơ cấu SKU cuối cùng và giá phụ thuộc vào quy mô bên mua — vui lòng tham khảo phản hồi hỏi giá để có báo giá chính xác.
+    </div>
+  </div>
+</section>
+
+<section class="section workforce" id="workforce">
+  <div class="container">
+    <div class="workforce__grid">
+      <div class="workforce__visual" data-reveal aria-hidden="true">
+        <div class="workforce__bilingual">
+          Song Ngữ Hoa-Việt
+          <span class="zh">中越雙語</span>
+          <span class="en">Bilingual Production Line</span>
+        </div>
+      </div>
+      <div class="workforce__copy" data-reveal>
+        <span class="eyebrow">Song ngữ</span>
+        <h2 class="h2">JuTe loại bỏ <em>sai sót ngôn ngữ</em><br>khỏi xưởng sản xuất.</h2>
+        <p>Chi phí ẩn của thu mua B2B hiếm khi là nguyên liệu — mà là <strong>việc giao tiếp sai dẫn đến trả hàng và làm lại</strong>. JuTe sử dụng cả công nhân Đài Loan và Việt Nam, nhưng quan trọng hơn, chúng tôi <strong>thể chế hóa</strong> quyết định đó.</p>
+        <p>Cụ thể là:</p>
+        <ul class="workforce__list">
+          <li><div><strong>Phiếu công việc song ngữ</strong><span>Mỗi hướng dẫn công việc được in cả tiếng Hoa và tiếng Việt — công nhân đọc bằng ngôn ngữ mẹ đẻ</span></div></li>
+          <li><div><strong>Hồ sơ QC song ngữ</strong><span>Mỗi mục QC được ký bằng cả hai ngôn ngữ, đảm bảo người ghi chép thực sự hiểu thông số</span></div></li>
+          <li><div><strong>Đào tạo song ngữ</strong><span>Tài liệu hội nhập nhân viên mới song ngữ — chu kỳ làm quen rút ngắn 40%</span></div></li>
+          <li><div><strong>Sẵn sàng kiểm toán</strong><span>Hồ sơ song ngữ đáp ứng yêu cầu truy xuất ISO 22000; hỗ trợ kiểm toán nhà máy của bên mua quốc tế</span></div></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="evidence">
+  <div class="container">
+    <div class="sec-head" data-reveal>
+      <span class="eyebrow">Cam kết</span>
+      <h2 class="h2">Bốn cam kết<br>được viết vào <em>mọi hợp đồng</em>.</h2>
+      <p class="lede">Đây không phải khẩu hiệu marketing. Chúng được tích hợp trong các thỏa thuận với nhà cung cấp.</p>
+    </div>
+    <div class="metric-grid">
+      <div class="metric" data-reveal>
+        <div class="metric__label">Sự ổn định</div>
+        <div class="metric__value"><span class="num">30</span><sup>+ năm</sup></div>
+        <div class="metric__delta">Liên tục từ 1995</div>
+      </div>
+      <div class="metric" data-reveal>
+        <div class="metric__label">Chứng nhận</div>
+        <div class="metric__value"><span class="num">2</span><sup>đang hoạt động</sup></div>
+        <div class="metric__delta">ISO 22000 + HACCP</div>
+      </div>
+      <div class="metric" data-reveal>
+        <div class="metric__label">Vận hành song ngữ</div>
+        <div class="metric__value"><span class="num">100</span><sup>%</sup></div>
+        <div class="metric__delta">Tiếng Hoa + Tiếng Việt</div>
+      </div>
+      <div class="metric" data-reveal>
+        <div class="metric__label">Đậu nành không biến đổi gen</div>
+        <div class="metric__value"><span class="num">100</span><sup>%</sup></div>
+        <div class="metric__delta">Có chứng chỉ nguồn gốc</div>
+      </div>
+    </div>
+    <div class="metric__source">
+      ⓘ Hồ sơ tuân thủ đầy đủ, chứng chỉ nguồn gốc nguyên liệu và báo cáo kiểm toán bên thứ ba có sẵn dưới dạng điện tử sau khi ký NDA.
+    </div>
+  </div>
+</section>
+
+<section class="section" id="inquiry">
+  <div class="container narrow">
+    <div class="cta-block" data-reveal>
+      <div class="cta-block__inner">
+        <span class="eyebrow" style="color:rgba(255,255,255,0.85)">Hỏi giá</span>
+        <h2 class="h2">Cần mẫu,<br>hay <em>báo giá</em> thực sự?</h2>
+        <p>Gửi thông tin công ty, dự kiến khối lượng mua hàng năm và sản phẩm quan tâm. Đội ngũ JuTe sẽ phản hồi trong vòng <strong>48 giờ</strong>.</p>
+        <a href="#" id="inquiryFormLink" class="btn">
+          Mở mẫu hỏi giá
+          <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M7 17L17 7M7 7h10v10"/></svg>
+        </a>
+        <p class="cta-block__note">
+          ⚠ Mua hàng năm dưới NT$ 500.000 (~USD 16.000) sẽ được xem xét riêng.<br>
+          Chấp nhận hồ sơ bằng EN / 繁中 / Tiếng Việt.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer__grid">
+      <div class="footer__about">
+        <a href="/vi/" class="brand footer__brand" aria-label="JuTe International Food">
+          <span class="brand__zh" style="color:var(--c-paper); border-color:rgba(201,169,97,.25);">儒德素食<small style="color:rgba(245,239,224,.5);">EST. 1995 · TAOYUAN</small></span>
+          <span class="brand__en">
+            <span class="brand__name">jute</span>
+            <span class="brand__tag" style="color:rgba(245,239,224,.4);">PLANT-BASED · B2B</span>
+          </span>
+        </a>
+        <p>Nhà máy thực phẩm chay 30 năm tại Đào Viên, Đài Loan. Đạt chứng nhận ISO 22000 + HACCP. Dây chuyền sản xuất song ngữ Hoa-Việt. Xuất khẩu sang Mỹ, Canada, Úc, Singapore, Malaysia.</p>
+      </div>
+      <div>
+        <h4>Điều hướng</h4>
+        <ul>
+          <li><a href="#about">Lịch sử</a></li>
+          <li><a href="#capability">Thông số</a></li>
+          <li><a href="#compliance">Chứng nhận</a></li>
+          <li><a href="#products">Sản phẩm</a></li>
+          <li><a href="#workforce">Song ngữ</a></li>
+          <li><a href="#evidence">Cam kết</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Liên hệ</h4>
+        <ul class="footer__contact">
+          <li data-label="ĐT"><a href="tel:+886-3-364-7017">+886-3-364-7017</a></li>
+          <li data-label="Fax">+886-3-362-7044</li>
+          <li data-label="Email"><a href="mailto:service@jutevege.com">service@jutevege.com</a></li>
+          <li data-label="MST">16037664</li>
+          <li data-label="Đ/c">Số 13, Hẻm 772, Đường Hòa Bình, Quận Bát Đức, Đào Viên 334023, Đài Loan</li>
+          <li data-label="Giờ">T2-T6 09:00–17:00 (UTC+8)</li>
+        </ul>
+      </div>
+      <div>
+        <h4>Tài nguyên</h4>
+        <ul>
+          <li><a href="https://www.jutevege.com" target="_blank" rel="noopener">Trang bán lẻ ↗</a></li>
+          <li><a href="https://zh-tw.facebook.com/VeGon.FoodProcessing/" target="_blank" rel="noopener">Facebook ↗</a></li>
+          <li><a href="https://www.instagram.com/jute.vegefood/" target="_blank" rel="noopener">Instagram ↗</a></li>
+          <li><a href="#inquiry">Tài liệu công ty (PDF)</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <span>© 1995–2026 JuTe International Food Co., Ltd. · Bảo lưu mọi quyền.</span>
+      <span>KHÔNG THEO DÕI · KHÔNG COOKIE · KHÔNG QUẢNG CÁO</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+const navToggle = document.getElementById('navToggle');
+const nav = document.getElementById('nav');
+navToggle?.addEventListener('click', () => {
+  const open = nav.classList.toggle('is-open');
+  navToggle.setAttribute('aria-expanded', open);
+});
+
+const reveal = document.querySelectorAll('[data-reveal]');
+if ('IntersectionObserver' in window) {
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('is-visible');
+        io.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.12, rootMargin: '0px 0px -60px 0px' });
+  reveal.forEach(el => io.observe(el));
+} else {
+  reveal.forEach(el => el.classList.add('is-visible'));
+}
+
+const SHEETS_CSV_URL = '';
+async function loadSheetData() {
+  if (!SHEETS_CSV_URL) return;
+  try {
+    const res = await fetch(SHEETS_CSV_URL, { cache: 'no-store' });
+    const csv = await res.text();
+    const rows = csv.trim().split('\n').slice(1);
+    const data = {};
+    rows.forEach(row => {
+      const [key, ...rest] = row.split(',');
+      data[key.trim()] = rest.join(',').trim().replace(/^"|"$/g, '');
+    });
+    document.querySelectorAll('[data-bind]').forEach(el => {
+      const key = el.dataset.bind;
+      if (data[key]) {
+        const numEl = el.querySelector('.num');
+        if (numEl) numEl.textContent = data[key];
+        else el.textContent = data[key];
+      }
+    });
+  } catch (err) { console.warn('[JuTe B2B] Sheets load failed', err); }
+}
+loadSheetData();
+
+const INQUIRY_FORM_URL = 'https://forms.gle/your-form-id';
+document.getElementById('inquiryFormLink').href = INQUIRY_FORM_URL;
+
+document.querySelectorAll('a[href^="#"]').forEach(a => {
+  a.addEventListener('click', e => {
+    const id = a.getAttribute('href');
+    if (id.length < 2) return;
+    const target = document.querySelector(id);
+    if (!target) return;
+    e.preventDefault();
+    const offset = 72;
+    const top = target.getBoundingClientRect().top + window.scrollY - offset;
+    window.scrollTo({ top, behavior: 'smooth' });
+    if (nav?.classList.contains('is-open')) {
+      nav.classList.remove('is-open');
+      navToggle?.setAttribute('aria-expanded', false);
+    }
+  });
+});
+
+console.log('%c儒德素食 · jute · plant-based foods · since 1995',
+  'background:#1F3A2D;color:#C9A961;padding:8px 16px;font-weight:bold;font-size:14px;border-radius:4px;font-family:sans-serif');
+</script>
+
+</body>
+</html>
