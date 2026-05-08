@@ -261,7 +261,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
   margin-bottom: var(--sp-5);
   max-width: 18ch;
 }
-.hero__title em { font-style: italic; color: var(--c-accent); font-family: var(--f-en-serif); font-weight: 700; }
+.hero__title em { font-style: italic; color: var(--c-accent); font-family: 'Mona Sans', var(--f-en-sans); font-weight: 800; }
 .hero__sub { font-size: clamp(1.05rem, 1.4vw, 1.25rem); color: rgba(255,255,255,0.82); max-width: 56ch; line-height: 1.65; margin-bottom: var(--sp-7); }
 .hero__sub strong { color: white; font-weight: 500; }
 .hero__cta { display: flex; gap: var(--sp-4); flex-wrap: wrap; }
@@ -286,12 +286,12 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 .marquee::after { right:0; background: linear-gradient(-90deg, var(--c-primary-d), transparent); }
 .marquee__track { display: flex; gap: 64px; white-space: nowrap; animation: scroll-marquee 50s linear infinite; will-change: transform; }
 .marquee__item {
-  font-family: var(--f-en-serif);
+  font-family: 'Mona Sans', var(--f-en-sans);
   font-style: italic; font-weight: 700;
-  font-size: clamp(1.3rem, 2.4vw, 2rem);
+  font-size: clamp(1.25rem, 2.2vw, 1.85rem);
   color: var(--c-accent);
   display: flex; align-items: center; gap: 64px;
-  letter-spacing: 0.01em;
+  letter-spacing: -0.005em;
 }
 .marquee__item::after { content:'✦'; font-size:.5em; color: rgba(201,169,97,.5); font-style: normal; }
 @keyframes scroll-marquee { from{transform:translateX(0)} to{transform:translateX(-50%)} }
@@ -620,7 +620,7 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
     <div class="sec-head sec-head--center" data-reveal>
       <span class="eyebrow">Certifications</span>
       <h2 class="h2">Certifications,<br>not promises.</h2>
-      <p class="lede">B2B procurement values <em>third-party paperwork</em> over adjectives. Here is our current compliance ledger.</p>
+      <p class="lede">B2B buyers value <em>third-party documentation</em> over adjectives. Here's where we stand today.</p>
     </div>
     <div class="cert-grid">
       <div class="cert cert--active" data-reveal>
